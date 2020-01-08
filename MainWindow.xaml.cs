@@ -23,7 +23,7 @@ namespace lesson1
         public MainWindow()
         {
             InitializeComponent();
-            //注释
+            //注释666666奥术大师大
         }
     }
 }
