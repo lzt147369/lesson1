@@ -23,6 +23,7 @@ namespace lesson1
         public MainWindow()
         {
             InitializeComponent();
+            //注释
         }
     }
 }
